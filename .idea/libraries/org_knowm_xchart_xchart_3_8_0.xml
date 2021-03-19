@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="org.knowm.xchart:xchart:3.8.0" type="repository">
+    <properties maven-id="org.knowm.xchart:xchart:3.8.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/knowm/xchart/xchart/3.8.0/xchart-3.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/de/rototor/pdfbox/graphics2d/0.30/graphics2d-0.30.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/fontbox/2.0.22/fontbox-2.0.22.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/knowm/xchart/xchart/3.8.0/xchart-3.8.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/de/rototor/pdfbox/graphics2d/0.30/graphics2d-0.30-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/fontbox/2.0.22/fontbox-2.0.22-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
